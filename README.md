@@ -13,11 +13,11 @@ or a redis [sentinel](https://redis.io/topics/sentinel).
 
 Let's start by building the Docker Image:
 
-![Redis-Build](../assets/gifs/redis/redis-build.gif)
+![Redis-Build](https://raw.githubusercontent.com/TimTosi/mechanist/master/assets/gifs/redis/redis-build.gif)
 
 From here you got a new shiny Docker Image of a redis server you can play with:
 
-![Redis-Test](../assets/gifs/redis/redis-test.gif)
+![Redis-Test](https://raw.githubusercontent.com/TimTosi/mechanist/master/assets/gifs/redis/redis-test.gif)
 
 ## Dockerfile
 
@@ -31,7 +31,7 @@ would force you to create the Docker Image again.
 
 Let's say you would like to change the port the redis server listens to:
 
-![Redis-Override](../assets/gifs/redis/redis-override.gif)
+![Redis-Override](https://raw.githubusercontent.com/TimTosi/mechanist/master/assets/gifs/redis/redis-override.gif)
 
 Nevertheless, you would have to specify TONS of arguments in command line, and
 that is not really practical.
@@ -70,10 +70,10 @@ editing this very file.
 
 Using this Compose file is as easy as:
 
-![Redis-Compose](../assets/gifs/redis/redis-compose.gif)
+![Redis-Compose](https://raw.githubusercontent.com/TimTosi/mechanist/master/assets/gifs/redis/redis-compose.gif)
 
 ## Not Good Enough ?
 
 If you encouter any issue by using what is provided here, please
-[let me know](https://github.com/TimTosi/mechanist/issues) ! 
+[let me know](https://github.com/TimTosi/mechanist/issues) !
 Help me to improve by sending your thoughts to timothee.tosi@gmail.com !
