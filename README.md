@@ -1,3 +1,11 @@
+:warning:
+**mechanist-redis** is a fork of [TimTosi/mechanist](https://github.com/TimTosi/mechanist/tree/master/redis) with only the **redis folder**.
+I've used `git subtree` and I will keep this repo **up-to-date** with the **upstream**.
+`master` branch will be rebased on `upstream-master`
+@see [forking-a-sub-directory](http://stackoverflow.com/questions/24577084/forking-a-sub-directory-of-a-repository-on-github-and-making-it-part-of-my-own-r)
+
+thx [TimTosi](https://github.com/TimTosi) :yum:
+
 # Redis Docker
 
 ## Overview
