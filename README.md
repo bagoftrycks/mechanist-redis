@@ -1,3 +1,7 @@
+[![GitHub version](https://badge.fury.io/gh/bagoftrycks%2Fmechanist-redis.svg)](https://badge.fury.io/gh/bagoftrycks%2Fmechanist-redis)
+[![Build Status](https://travis-ci.org/bagoftrycks/mechanist-redis.svg?branch=master)](https://travis-ci.org/bagoftrycks/mechanist-redis)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 :warning:
 **mechanist-redis** is a fork of [TimTosi/mechanist](https://github.com/TimTosi/mechanist/tree/master/redis) with only the **redis folder**.
 I've used `git subtree` and I will keep this repo **up-to-date** with the **upstream**.
